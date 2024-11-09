@@ -1,0 +1,12 @@
+ol{
+    background-color: rgb(219, 189, 209);
+    padding: 25px;
+    color: white;
+}
+li{
+    background-color: rgb(219, 40, 150);
+    margin: 5px;
+}
+span{
+    background-color: rgb(190, 17, 153);
+}
