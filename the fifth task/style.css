@@ -1,0 +1,35 @@
+body{
+    margin:0 auto;
+    max-width: 900px;
+    height: 100%;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(250, 252, 253);
+    list-style: none;
+ 
+}
+.divclass{
+    display: column;
+    position: sticky;
+    top: 0;
+   background-color:rgb(124, 124, 119) ;
+   width:150px;
+   
+   
+}
+.divclass:hover{
+    background: rgb(63, 62, 62);
+    width: 400px;
+    transition: all 2s linear.5s;
+}
+img{
+   width: 50px;
+   padding: 0  10px 0 10px; 
+}
+.divclass1{
+margin: 20px 20px 20px 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: large;
+}
