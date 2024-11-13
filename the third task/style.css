@@ -1,0 +1,33 @@
+div{
+    background-color: rgba(220, 224, 228, 0.849);
+}
+dl{
+    padding: 10px;
+    margin-left: 50px;
+}
+dt{
+    margin-left: 15px;
+    font-weight: bold;
+}
+dd{
+    margin-left: 10px;
+    font-weight: lighter;
+    
+}
+span{
+    color: blue;
+    
+}
+h1{
+    margin: 30px;
+    font-style: normal;
+}
+h2{
+    font-weight: normal;
+    margin: 30px;
+}
+h3{
+    font-style: italic;
+    font-weight: lighter;
+    margin: 30px;
+}
